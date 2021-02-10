@@ -1,4 +1,4 @@
-# aj-hung-ads-api
+# Google Adwords Automated Geotargeting
 
 Add tokens to the googleads.yaml file following the instructions in the below link:
 https://developers.google.com/adwords/api/docs/guides/first-api-call
