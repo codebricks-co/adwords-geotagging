@@ -1,7 +1,5 @@
 # aj-hung-ads-api
 
-Work on Ads API for AJ Hung.
-
 Add tokens to the googleads.yaml file following the instructions in the below link:
 https://developers.google.com/adwords/api/docs/guides/first-api-call
 
