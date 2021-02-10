@@ -3,11 +3,11 @@ adwords:
   #############################################################################
   # Required Fields                                                           #
   #############################################################################
-  developer_token: INSERT_DEVELOPER_TOKEN_HERE
+  developer_token: eLKxOXWcoZtqwYtsUub22A
   #############################################################################
   # Optional Fields                                                           #
   #############################################################################
-  # client_customer_id: INSERT_CLIENT_CUSTOMER_ID_HERE
+  client_customer_id: 475-253-5133
   # user_agent: INSERT_USER_AGENT_HERE
   # partial_failure: True
   # validate_only: True
@@ -19,9 +19,9 @@ adwords:
   #############################################################################
   # The following values configure the client for the installed application
   # flow.
-  client_id: INSERT_OAUTH_2_CLIENT_ID_HERE
-  client_secret: INSERT_CLIENT_SECRET_HERE
-  refresh_token: INSERT_REFRESH_TOKEN_HERE
+  client_id: 170940836349-j2suf3dcba9ucg475r6olnpu3s96ac42.apps.googleusercontent.com
+  client_secret: XRE0cILSEbC_dNxR5wUCpqTx
+  refresh_token: 1//0g5hDATR_UAmYCgYIARAAGBASNwF-L9IrqnxS-0Ojg8Uf5qupuo7Hv9BplXu2ZqZD4X88LXpAyYv9KAbHDE3A_ZeHlnjiQqIrcLY
   # The following values configure the client for the service account flow.
   # path_to_private_key_file: INSERT_PATH_TO_JSON_KEY_FILE_HERE
   # delegated_account: INSERT_DOMAIN_WIDE_DELEGATION_ACCOUNT
